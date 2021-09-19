@@ -4,7 +4,7 @@ A cool multi purpose discord bot with commands for Fun, Moderation, Utility, Ima
 
 [Add It](https://discord.com/api/oauth2/authorize?client_id=818092139496996864&permissions=8&scope=bot) | [Join Our Discord](https://discord.gg/RWSEj6JrjJ) | [Vote](https://top.gg/bot/818092139496996864/vote)
 
-[![DiscordBanner](https://invidget.switchblade.xyz/RWSEj6JrjJ)](https://discord.gg/RWSEj6JrjJ)
+[![DiscordBanner](http://invidget.switchblade.xyz/785447323156742204)](https://discord.gg/NgH8hnCN7Z) 
 
 [![Discord Bots](https://top.gg/api/widget/status/818092139496996864.svg?noavatar=true)](https://top.gg/bot/818092139496996864)
 ![LOC](https://tokei.rs/b1/github/Dinav69/DoggoBot?category=code)
